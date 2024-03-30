@@ -1,0 +1,26 @@
+{
+  "name": "fishingssh",
+  "version": "0.0.1",
+  "description": "fishing ssh client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/gitdog01/fishingSSH.git"
+  },
+  "keywords": [
+    "ssh",
+    "fake"
+  ],
+  "author": "mononomo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gitdog01/fishingSSH/issues"
+  },
+  "homepage": "https://github.com/gitdog01/fishingSSH#readme",
+  "dependencies": {
+    "ssh2": "^1.15.0"
+  }
+}
